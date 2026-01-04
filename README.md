@@ -3,7 +3,7 @@
 An end-to-end Machine Learning project that predicts real estate prices in Bengaluru, India. This project covers the entire data science lifecycle, from data cleaning and outlier removal to building a predictive model and deploying it as a web application.
 
 ## 🚀 Live Demo
-Check out the live app here: [Insert your Streamlit Cloud Link Here]
+Check out the live app here: [http://192.168.1.7:8501/]
 
 ## 📌 Project Overview
 Buying a home is a major life decision, but pricing can be complex. This project uses a **Ridge Regression** model to provide estimated prices based on:
